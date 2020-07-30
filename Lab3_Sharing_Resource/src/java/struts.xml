@@ -1,0 +1,55 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <package name="default" extends="struts-default">
+        <action name="LoginAction" class="huyttd.actions.LoginAction">
+            <result name="error">login.jsp</result>
+            <result name="success">search.jsp</result>
+            <result name="verify">verify.jsp</result>
+        </action>
+        <action name="RegisterAction" class="huyttd.actions.RegisterAction">
+            <exception-mapping exception="java.sql.SQLException" result="duplicate"/>
+            <result name="error">register.jsp</result>
+            <result name="success">login.jsp</result>
+            <result name="duplicate">register.jsp</result>
+        </action>
+        <action name="VerifyAction" class="huyttd.actions.VerifyAction">
+            <result name="error">verify.jsp</result>
+            <result name="success">search.jsp</result>
+        </action>
+        <action name="LogoutAction" class="huyttd.actions.LogoutAction">
+            <result name="error">error.jsp</result>
+            <result name="success">login.jsp</result>
+        </action>
+        <action name="SearchAction" class="huyttd.actions.SearchAction">
+            <result name="error">error.jsp</result>
+            <result name="success">search.jsp</result>
+        </action>
+        <action name="BookAction" class="huyttd.actions.BookAction">
+            <result name="error">error.jsp</result>
+            <result name="success" type="redirectAction">
+                <param name="actionName">SearchAction</param>
+                <param name="nameSearch">${nameSearch}</param> 
+                <param name="pageCount">${pageCount}</param> 
+                <param name="category">${category}</param> 
+                <param name="usingDate">${usingDate}</param> 
+            </result>
+        </action>
+        <action name="RequestAction" class="huyttd.actions.RequestAction">
+            <result name="error">error.jsp</result>
+            <result name="delete">book.jsp</result>
+            <result name="success">book.jsp</result>
+        </action>
+        <action name="SearchRequestAction" class="huyttd.actions.SearchRequestAction">
+            <result name="error">error.jsp</result>
+            <result name="success">notification.jsp</result>
+        </action>
+        <action name="HistoryAction" class="huyttd.actions.HistoryAction">
+            <result name="error">error.jsp</result>
+            <result name="success">history.jsp</result>
+        </action>
+    </package>
+</struts>
