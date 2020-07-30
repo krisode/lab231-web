@@ -1,0 +1,491 @@
+2020-05-27 21:30:15 ERROR LoginController:66 - ERROR at LoginController: Invalid object name 'QuizUser1'.
+2020-05-28 15:44:20 ERROR LoginController:36 - In LoginController
+2020-05-28 20:14:50 ERROR UpdateQuestionController:52 - ERROR at UpdateQuestionController: The value is not set for the parameter number 9.
+2020-05-29 22:01:12 ERROR QuizMainController:35 - ERROR at TakeQuizController: Invalid column name 'SubStatus'.
+2020-05-29 22:01:15 ERROR QuizMainController:35 - ERROR at TakeQuizController: Invalid column name 'SubStatus'.
+2020-05-30 00:42:19 ERROR QuizController:67 - ERROR at QuizController: null
+2020-05-30 00:45:57 ERROR QuizController:68 - ERROR at QuizController: null
+2020-05-30 00:46:51 ERROR QuizController:70 - ERROR at QuizController: null
+2020-05-30 00:47:10 ERROR QuizController:70 - ERROR at QuizController: null
+2020-05-30 00:47:28 ERROR QuizController:70 - ERROR at QuizController: For input string: ""
+2020-05-30 00:47:29 ERROR QuizController:70 - ERROR at QuizController: For input string: ""
+2020-05-30 00:47:33 ERROR QuizController:70 - ERROR at QuizController: For input string: ""
+2020-05-30 00:48:14 ERROR QuizController:70 - ERROR at QuizController: For input string: ""
+2020-05-30 00:49:09 ERROR QuizController:70 - ERROR at QuizController: For input string: ""
+2020-05-30 00:49:10 ERROR QuizController:70 - ERROR at QuizController: For input string: ""
+2020-05-30 09:26:45 ERROR QuizController:69 - ERROR at QuizController: null
+2020-05-30 09:26:51 ERROR QuizController:69 - ERROR at QuizController: For input string: ""
+2020-05-30 09:33:17 ERROR QuizController:69 - ERROR at QuizController: null
+2020-05-30 09:35:19 ERROR QuizController:69 - ERROR at QuizController: null
+2020-05-30 09:35:41 ERROR QuizController:69 - ERROR at QuizController: null
+2020-05-30 13:17:21 ERROR QuizController:69 - ERROR at QuizController: null
+2020-05-30 13:17:41 ERROR QuizController:69 - ERROR at QuizController: For input string: ""
+2020-05-30 13:17:42 ERROR QuizController:69 - ERROR at QuizController: For input string: ""
+2020-05-30 14:04:43 ERROR QuizController:94 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 14:04:45 ERROR QuizController:94 - ERROR at QuizController: For input string: ""
+2020-05-30 14:06:30 ERROR QuizController:94 - ERROR at QuizController: Index: -1, Size: 0
+2020-05-30 14:42:16 ERROR QuizController:107 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 14:43:25 ERROR QuizController:107 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 14:44:22 ERROR QuizController:108 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 14:44:37 ERROR QuizController:108 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 14:44:48 ERROR QuizController:108 - ERROR at QuizController: For input string: ""
+2020-05-30 14:46:38 ERROR QuizController:108 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 14:51:36 ERROR QuizController:111 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 14:53:17 ERROR QuizController:111 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 14:55:42 ERROR QuizController:111 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 14:56:55 ERROR QuizController:112 - ERROR at QuizController: Index: 2, Size: 0
+2020-05-30 14:57:07 ERROR QuizController:112 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 15:00:03 ERROR QuizController:113 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 15:01:07 ERROR QuizController:112 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 15:02:13 ERROR QuizController:117 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 15:02:29 ERROR QuizController:117 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 15:03:42 ERROR QuizController:117 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 15:04:42 ERROR QuizController:117 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 15:06:05 ERROR QuizController:118 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 15:06:24 ERROR QuizController:118 - ERROR at QuizController: Index: 1, Size: 0
+2020-05-30 15:15:27 ERROR QuizController:139 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 15:21:34 ERROR QuizController:139 - ERROR at QuizController: Index: 39, Size: 13
+2020-05-30 15:21:36 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 15:21:44 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 15:21:45 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 15:21:45 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 15:21:46 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 15:21:46 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 15:21:46 ERROR QuizController:139 - ERROR at QuizController: For input string: ""
+2020-05-30 16:14:03 ERROR QuizController:145 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:16:21 ERROR QuizController:146 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:17:07 ERROR QuizController:147 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:19:52 ERROR QuizController:157 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:21:36 ERROR QuizController:157 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:25:31 ERROR QuizController:157 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:32:17 ERROR QuizController:157 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 16:33:05 ERROR QuizController:158 - ERROR at QuizController: Index: 1, Size: 1
+2020-05-30 17:10:05 ERROR QuizController:158 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 17:23:12 ERROR QuizController:170 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 17:24:21 ERROR QuizController:173 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 17:41:18 ERROR QuizController:163 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 17:43:04 ERROR QuizController:166 - ERROR at QuizController: Index: 2, Size: 0
+2020-05-30 17:44:41 ERROR QuizController:166 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 17:57:21 ERROR QuizController:168 - ERROR at QuizController: Index: 0, Size: 0
+2020-05-30 17:58:01 ERROR QuizController:162 - ERROR at QuizController: -1
+2020-05-30 20:21:56 ERROR QuizController:112 - ERROR at QuizController: -1
+2020-05-30 20:22:07 ERROR QuizController:112 - ERROR at QuizController: For input string: ""
+2020-05-30 20:25:48 ERROR QuizController:114 - ERROR at QuizController: -1
+2020-05-30 20:56:49 ERROR QuizController:115 - ERROR at QuizController: 40
+2020-05-30 20:58:47 ERROR QuizController:115 - ERROR at QuizController: 40
+2020-05-31 12:43:49 ERROR QuizController:119 - ERROR at QuizController: Incorrect syntax near the keyword 'INTO'.
+2020-05-31 12:44:35 ERROR QuizController:117 - ERROR at QuizController: Cannot insert the value NULL into column 'Email', table 'Lab1.dbo.QuizDetail'; column does not allow nulls. INSERT fails.
+2020-05-31 13:13:46 ERROR QuizController:48 - ERROR at QuizController: null
+2020-05-31 13:18:54 ERROR QuizController:48 - ERROR at QuizController: null
+2020-05-31 13:22:10 ERROR QuizController:48 - ERROR at QuizController: null
+2020-05-31 13:23:39 ERROR QuizController:48 - ERROR at QuizController: null
+2020-05-31 13:27:03 ERROR ResultController:51 - ERROR at ResultController: null
+2020-05-31 13:29:01 ERROR ResultController:51 - ERROR at ResultController: null
+2020-05-31 13:32:45 ERROR ResultController:53 - ERROR at ResultController: null
+2020-05-31 13:34:51 ERROR ResultController:53 - ERROR at ResultController: null
+2020-05-31 13:35:38 ERROR ResultController:53 - ERROR at ResultController: null
+2020-05-31 13:42:17 ERROR ResultController:54 - ERROR at ResultController: java.util.ArrayList cannot be cast to [Ljava.lang.String;
+2020-05-31 13:44:21 ERROR ResultController:55 - ERROR at ResultController: null
+2020-05-31 13:46:35 ERROR ResultController:56 - ERROR at ResultController: null
+2020-05-31 13:48:27 ERROR ResultController:56 - ERROR at ResultController: Incorrect syntax near the keyword 'WHERE'.
+2020-05-31 13:53:17 ERROR ResultController:56 - ERROR at ResultController: null
+2020-05-31 13:55:18 ERROR ResultController:56 - ERROR at ResultController: null
+2020-05-31 13:58:10 ERROR ResultController:56 - ERROR at ResultController: null
+2020-05-31 13:59:59 ERROR ResultController:56 - ERROR at ResultController: null
+2020-05-31 15:13:46 ERROR QuizController:129 - ERROR at QuizController: null
+2020-05-31 17:02:58 ERROR QuizDetailController:43 - ERROR at QuizDetailController: null
+2020-05-31 17:03:45 ERROR QuizDetailController:43 - ERROR at QuizDetailController: null
+2020-05-31 17:03:53 ERROR QuizDetailController:43 - ERROR at QuizDetailController: null
+2020-05-31 17:04:46 ERROR QuizDetailController:44 - ERROR at QuizDetailController: null
+2020-05-31 17:04:48 ERROR QuizDetailController:44 - ERROR at QuizDetailController: null
+2020-05-31 17:05:01 ERROR QuizDetailController:44 - ERROR at QuizDetailController: null
+2020-05-31 17:05:49 ERROR QuizDetailController:45 - ERROR at QuizDetailController: null
+2020-05-31 17:07:17 ERROR QuizDetailController:47 - ERROR at QuizDetailController: null
+2020-05-31 17:09:48 ERROR QuizDetailController:47 - ERROR at QuizDetailController: Index: 0, Size: 0
+2020-05-31 17:11:10 ERROR QuizDetailController:46 - ERROR at QuizDetailController: Index: 0, Size: 0
+2020-05-31 18:59:46 ERROR QuizDetailController:73 - ERROR at QuizDetailController: For input string: "ENG"
+2020-05-31 19:00:44 ERROR QuizDetailController:73 - ERROR at QuizDetailController: Incorrect syntax near the keyword 'as'.
+2020-05-31 19:01:13 ERROR QuizDetailController:73 - ERROR at QuizDetailController: Incorrect syntax near 'Number'.
+2020-05-31 19:01:35 ERROR QuizDetailController:73 - ERROR at QuizDetailController: Incorrect syntax near 'Number'.
+2020-05-31 19:06:21 ERROR QuizDetailController:79 - ERROR at QuizDetailController: Index: 0, Size: 0
+2020-05-31 20:36:21 ERROR QuizController:129 - ERROR at QuizController: Cannot insert the value NULL into column 'Email', table 'Lab1.dbo.QuizDetail'; column does not allow nulls. INSERT fails.
+2020-05-31 20:38:35 ERROR QuizController:129 - ERROR at QuizController: For input string: ""
+2020-05-31 20:38:37 ERROR QuizController:129 - ERROR at QuizController: For input string: ""
+2020-05-31 23:06:15 ERROR QuizController:136 - ERROR at QuizController: null
+2020-05-31 23:07:07 ERROR QuizController:136 - ERROR at QuizController: null
+2020-06-01 11:35:22 ERROR RegisterController:43 - ERROR at RegisterController: Violation of PRIMARY KEY constraint 'PK_dbo.QuizUser'. Cannot insert duplicate key in object 'dbo.QuizUser'. The duplicate key value is (giangnthse140109@fpt.edu.vn).
+2020-06-01 13:54:14 ERROR QuizDetailController:80 - ERROR at QuizDetailController: The value is not set for the parameter number 5.
+2020-06-01 13:54:26 ERROR QuizDetailController:80 - ERROR at QuizDetailController: The value is not set for the parameter number 5.
+2020-06-01 13:54:41 ERROR QuizDetailController:80 - ERROR at QuizDetailController: Invalid column name 'Emai'.
+2020-06-02 15:03:27 ERROR LoginController:78 - ERROR at LoginController: null
+2020-06-02 15:36:08 ERROR LoginController:78 - ERROR at LoginController: null
+2020-06-02 15:38:11 ERROR VerifyController:55 - ERROR at VerifyController: null
+2020-06-02 15:38:30 ERROR VerifyController:55 - ERROR at VerifyController: null
+2020-06-02 15:45:13 ERROR LoginController:78 - ERROR at LoginController: null
+2020-06-02 19:47:20 ERROR RegisterController:43 - ERROR at RegisterController: Violation of PRIMARY KEY constraint 'PK_dbo.QuizUser'. Cannot insert duplicate key in object 'dbo.QuizUser'. The duplicate key value is (huyttdse140080@fpt.edu.vn).
+2020-06-09 15:30:18 ERROR RegisterController:43 - ERROR at RegisterController: Violation of PRIMARY KEY constraint 'PK_dbo.QuizUser'. Cannot insert duplicate key in object 'dbo.QuizUser'. The duplicate key value is (huyttdse140080@fpt.edu.vn).
+2020-07-28 16:56:57 ERROR QuizController:137 - ERROR at QuizController: null
+2020-07-28 16:56:58 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:56:59 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:00 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:01 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:02 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:03 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:05 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:06 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:07 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:08 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:09 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:10 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:11 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:12 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:13 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:14 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:15 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:16 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:17 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:18 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:19 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:20 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:21 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:22 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:23 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:24 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:25 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:26 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:27 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:28 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:29 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:30 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:32 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:33 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:34 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:35 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:36 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:37 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:38 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:39 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:40 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:41 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:42 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:43 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:44 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:45 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:46 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:47 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:48 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:49 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:50 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:51 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:52 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:53 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:54 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:56 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:57 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:58 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:57:59 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:00 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:01 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:02 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:03 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:04 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:05 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:06 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:07 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:08 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:09 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:10 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:11 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:12 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:13 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:14 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:15 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:16 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:17 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:18 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:19 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:20 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:21 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:22 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:23 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:25 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:26 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:27 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:28 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:29 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:30 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:31 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:32 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:33 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:34 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:35 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:36 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:37 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:38 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:39 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:40 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:41 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:42 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:43 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:44 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:45 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:46 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:47 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:48 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:49 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:50 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:51 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:52 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:54 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:55 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:56 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:57 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:58 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:58:59 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:00 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:01 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:02 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:03 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:04 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:05 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:06 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:07 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:08 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:09 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:10 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:11 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:12 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:13 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:14 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:15 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:16 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:17 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:18 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:19 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:21 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:22 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:23 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:24 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:25 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:26 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:27 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:28 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:29 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:30 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:31 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:32 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:33 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:34 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:35 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:36 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:37 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:38 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:39 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:40 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:41 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:42 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:43 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:44 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:45 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:46 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:47 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:49 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:50 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:51 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:52 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:53 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:54 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:55 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:56 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:57 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:58 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 16:59:59 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:00 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:01 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:02 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:03 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:04 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:05 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:06 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:07 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:08 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:09 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:10 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:11 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:12 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:13 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:14 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:16 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:17 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:18 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:19 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:20 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:21 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:22 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:23 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:24 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:25 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:26 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:27 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:28 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:29 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:30 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:31 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:32 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:33 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:34 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:35 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:36 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:37 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:38 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:39 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:40 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:41 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:43 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:44 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:45 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:46 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:47 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:48 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:49 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:50 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:51 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:52 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:53 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:54 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:55 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:56 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:57 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:58 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:00:59 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:00 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:01 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:02 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:03 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:04 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:05 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:06 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:07 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:08 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:10 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:11 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:12 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:13 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:14 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:15 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:16 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:17 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:18 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:19 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:20 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:21 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:22 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:23 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:24 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:25 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:26 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:27 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:28 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:29 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:30 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:31 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:32 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:33 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:34 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:35 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:36 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:38 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:39 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:40 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:41 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:42 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:43 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:44 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:45 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:46 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:47 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:48 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:49 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:50 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:51 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:52 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:53 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:54 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:55 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:56 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:57 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:58 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:01:59 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:00 ERROR QuizController:137 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:02 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:03 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:04 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:06 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:07 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:08 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:09 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:10 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:11 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:12 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:13 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:14 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:15 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:16 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:17 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:18 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:19 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:20 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:21 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:22 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:24 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:25 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:27 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:29 ERROR QuizController:136 - ERROR at QuizController: For input string: ""
+2020-07-28 17:02:37 ERROR QuizController:136 - ERROR at QuizController: null
+2020-07-28 17:06:46 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:47 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:48 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:49 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:50 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:51 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:52 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:54 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:56 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:06:58 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:00 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:02 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:04 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:06 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:08 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:10 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:12 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:14 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:16 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:18 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:20 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:22 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:24 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:26 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:28 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:30 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:32 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:34 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:36 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:38 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:40 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:42 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:44 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:46 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:48 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:50 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:52 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:54 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:56 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:07:58 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:08:00 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:08:02 ERROR QuizController:157 - ERROR at QuizController: null
+2020-07-28 17:08:05 ERROR QuizController:155 - ERROR at QuizController: null
+2020-07-28 17:09:34 ERROR QuizMainController:41 - ERROR at QuizMainController: null
+2020-07-28 17:10:08 ERROR QuizController:154 - ERROR at QuizController: null
+2020-07-28 17:10:15 ERROR QuizController:154 - ERROR at QuizController: null
+2020-07-28 17:10:35 ERROR QuizController:154 - ERROR at QuizController: null
